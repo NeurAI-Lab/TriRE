@@ -19,3 +19,9 @@ The official repository for NeurIPS'23 paper. We extended the original repo [DER
 + Seq-CIFAR10
 + Seq-CIFAR100
 + SeqTinyImageNet
+
+## Cite Our Work
+
+If you find the code useful in your research, please consider citing our paper:
+
+    
