@@ -35,9 +35,10 @@ The official repository for [NeurIPS'23 paper](https://arxiv.org/pdf/2310.08217.
 
 If you find the code useful in your research, please consider citing our paper:
 
-@article{vijayan2023trire,
-  title={TriRE: A Multi-Mechanism Learning Paradigm for Continual Knowledge Retention and Promotion},
-  author={Vijayan, Preetha and Bhat, Prashant and Arani, Elahe and Zonooz, Bahram},
-  journal={arXiv preprint arXiv:2310.08217},
-  year={2023}
-}    
+    @article{vijayan2023trire,
+      title={TriRE: A Multi-Mechanism Learning Paradigm for Continual Knowledge Retention and Promotion},
+      author={Vijayan, Preetha and Bhat, Prashant and Arani, Elahe and Zonooz, Bahram},
+      journal={arXiv preprint arXiv:2310.08217},
+      year={2023}
+   }
+    
