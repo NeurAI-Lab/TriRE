@@ -1,6 +1,6 @@
 # TriRE: A Multi-Mechanism Learning Paradigm for Continual Knowledge Retention and Promotion
 
-The official repository for NeurIPS'23 paper. We extended the original repo [DER++](https://papers.nips.cc/paper/2020/hash/b704ea2c39778f07c617f6b7ce480e9e-Abstract.html) with our method.
+The official repository for [NeurIPS'23 paper](https://arxiv.org/pdf/2310.08217.pdf). We extended the original repo [DER++](https://papers.nips.cc/paper/2020/hash/b704ea2c39778f07c617f6b7ce480e9e-Abstract.html) with our method.
 
 <img width="721" alt="method_readme" src="https://github.com/NeurAI-Lab/TriRE/assets/57964849/d4870e27-f593-480a-b77a-9eb8bea2efaa">
 
@@ -35,4 +35,9 @@ The official repository for NeurIPS'23 paper. We extended the original repo [DER
 
 If you find the code useful in your research, please consider citing our paper:
 
-    
+@article{vijayan2023trire,
+  title={TriRE: A Multi-Mechanism Learning Paradigm for Continual Knowledge Retention and Promotion},
+  author={Vijayan, Preetha and Bhat, Prashant and Arani, Elahe and Zonooz, Bahram},
+  journal={arXiv preprint arXiv:2310.08217},
+  year={2023}
+}    
