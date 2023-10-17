@@ -40,5 +40,4 @@ If you find the code useful in your research, please consider citing our paper:
       author={Vijayan, Preetha and Bhat, Prashant and Arani, Elahe and Zonooz, Bahram},
       journal={arXiv preprint arXiv:2310.08217},
       year={2023}
-    }
-    
+    }    
